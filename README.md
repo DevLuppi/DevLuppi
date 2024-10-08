@@ -16,5 +16,5 @@
 ## 💡 Curiosidades sobre mim:
 - 🎮 Gosto de jogar videogames nas horas vagas.
 - 📖 Sempre buscando aprender mais sobre desenvolvimento web, full stack e análise de dados.
-- 💪 Gosto de realizar atividades físicas regularmente, mantendo a mente e o corpo em equilíbrio.
+- 💪 Gosto de realizar exercícios físicos regularmente, mantendo a mente e o corpo em equilíbrio.
 
