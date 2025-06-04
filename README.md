@@ -1,6 +1,6 @@
 ### Olá! Eu sou Leonardo Luppi 👋
 
-### Desenvolvedor Web | Full Stack | Engenheiro de Software 💻
+### Desenvolvedor Web | Full Stack 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luppi-vanni-valente)](https://www.linkedin.com/in/leonardo-luppi-vanni-valente) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/leozinn_lp1) [![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:valente.leo@hotmail.com)
 
